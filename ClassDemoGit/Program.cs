@@ -3,4 +3,8 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Her starter vi ");
 
+Console.WriteLine("Peter was here");
+
+Console.WriteLine("Her starter vi ");
+
 Console.WriteLine("Endnu en linje i master");
