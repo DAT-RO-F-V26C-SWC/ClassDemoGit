@@ -2,3 +2,6 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Her starter vi ");
+
+Console.WriteLine("Peter was here");
+
